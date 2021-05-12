@@ -1,0 +1,14 @@
+/**
+ * @author Cory(coryisbest0728#gmail.com)
+ * @copyright © 2021 Cory. All rights reserved
+ */
+{
+    "layout": { // 布局配置
+        "frame": "./layout/DefaultFrame", // 主体框架
+        "navigation-panel": "./layout/DefaultNavigationPanel", // 导航面板
+        "content-panel": "./layout/DefaultContentPanel", // 内容面板
+        "header-panel": "./layout/DefaultHeader", // 头部面板
+        "footer-panel": "./layout/DefaultFooter" // 底部面板
+    },
+    "filters": []
+}
